@@ -69,6 +69,5 @@ node_modules/
 /.firebase
 /node_modules
 firebase.json
-package-lock.json
 .firebaserc
 /.idea
