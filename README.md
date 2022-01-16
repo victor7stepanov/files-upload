@@ -1,6 +1,6 @@
 # Files upload plugin
 
-The plugin created for uploading images to server
+The plugin was created for uploading images to server
 
 Implemented features: opening selected images, uploading these ones to server 
 
